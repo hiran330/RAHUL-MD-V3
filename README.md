@@ -1,5 +1,4 @@
-# RAHUL-MD-V3 div align="center">
-<h3>RAHUL MD V3 USER BOT</h3>
+# RAHUL-MD-V3 div 
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
